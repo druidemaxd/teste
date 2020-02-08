@@ -119,26 +119,3 @@ header {
 #portfolio {
 	text-align: center;
 }
-
-.portfolio .item-folio {
-	height: 200px;
-	background-color: ;
-}
-/*contact*/
-
-.footer {
-	background-color: #D4DBF5;
-	height: 600px;
-}
-
-.footer p {
-	color: black;
-	text-align: center;
-	padding-top:;
-	padding-bottom: 20px;
-}
-
-#contact {
-	color: #ffffff;
-	text-align: center;
-}
